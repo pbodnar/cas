@@ -45,7 +45,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
 /**
- * Unit tests for {@link TicketGrantingTicketResource}.
+ * Unit tests for {@link ServiceTicketResource}.
  *
  * @author Dmitriy Kopylenko
  * @since 4.0.0
