@@ -166,7 +166,7 @@ cd cas-server
 ./gradlew eclipse
 ```
 
-Then, import the project into eclipse using "General\Existing Projects into Workspace" 
+Then, import the project into Eclipse using "General\Existing Projects into Workspace" 
 and choose "Add Gradle Nature" from the "Configure" context menu of the project.
 
 <div class="alert alert-warning"><strong>YMMV</strong><p>We have had a less than ideal experience with Eclipse and its support for Gradle-based 
